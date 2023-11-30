@@ -1,6 +1,6 @@
 Instructions
 
-1. Unzip the .zip file
+1. Clone this repository or download it as a zip file and unzip it
 2. Open the folder in a Terminal/Command Prompt window
 3. Type 'npm install' to install dependencies
 4. Type 'npm start' to run the server
