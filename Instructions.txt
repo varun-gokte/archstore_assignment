@@ -1,0 +1,9 @@
+Instructions
+
+1. Unzip the .zip file
+2. Open the folder in a Terminal/Command Prompt window
+3. Type 'npm install' to install dependencies
+4. Type 'npm start' to run the server
+5. Using cURL, Postman, Thunder Client, or some similar way to make HTTP requests, both assignments can be tested
+  5.1. Assignment-1 will log one line to the console, create one .txt file, and return JSON data as the response
+  5.2. Assignment-2 will return a String message in addition to the HTTP status code as response
